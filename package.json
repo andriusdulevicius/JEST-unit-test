@@ -20,5 +20,8 @@
   "homepage": "https://github.com/andriusdulevicius/JEST-unit-test#readme",
   "devDependencies": {
     "jest": "^27.0.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }
